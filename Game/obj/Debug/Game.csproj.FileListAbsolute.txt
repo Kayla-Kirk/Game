@@ -1,0 +1,11 @@
+C:\Users\Thera\source\repos\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Thera\source\repos\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Thera\source\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Thera\source\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\Thera\source\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\Thera\source\repos\Game\Game\bin\Debug\Game_Repository.exe
+C:\Users\Thera\source\repos\Game\Game\bin\Debug\Game_Repository.pdb
+C:\Users\Thera\source\repos\Game\Game\bin\Debug\Game_Repository.exe.config
+C:\Users\Thera\source\repos\Game\Game\obj\Debug\Game.csproj.CopyComplete
+C:\Users\Thera\source\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\Thera\source\repos\Game\Game\obj\Debug\Game.pdb

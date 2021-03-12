@@ -1,0 +1,7 @@
+C:\Users\Thera\source\repos\Game\Game_Repository\obj\Debug\Game_Repository.csprojAssemblyReference.cache
+C:\Users\Thera\source\repos\Game\Game_Repository\obj\Debug\Game_Repository.csproj.CoreCompileInputs.cache
+C:\Users\Thera\source\repos\Game\Game_Repository\bin\Debug\Game_Repository.exe.config
+C:\Users\Thera\source\repos\Game\Game_Repository\bin\Debug\Game_Repository.exe
+C:\Users\Thera\source\repos\Game\Game_Repository\bin\Debug\Game_Repository.pdb
+C:\Users\Thera\source\repos\Game\Game_Repository\obj\Debug\Game_Repository.exe
+C:\Users\Thera\source\repos\Game\Game_Repository\obj\Debug\Game_Repository.pdb
